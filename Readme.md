@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Classification
+# 🏦 Bank Customer Churn Classification Using Machine Learning
 
 An end-to-end Machine Learning project to predict whether a bank customer will churn (exit) or not, based on demographic, financial, and behavioral features.
 

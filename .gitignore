@@ -3,5 +3,3 @@ ML/
 __pycache__/
 *.pyc
 .env
-
-models/*.pkl
